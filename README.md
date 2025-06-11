@@ -10,6 +10,7 @@ The management noticed that they do not get enough insights to make quick and sm
 The Director of Analytics wanted to hire someone who is good at both tech and soft skills.
 
 #Task:
+
 . Provide business insights by writing SQL queries from the given ad-hoc request document.
 . Create a presentation to showcase the insights, tailored for top-level management.
 
