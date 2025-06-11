@@ -18,9 +18,11 @@ The Director of Analytics wanted to hire someone who is good at both tech and so
 
  1.Data Extaction by using MYSQL:
        Utilized SQL to run queries and extract neccessary data.
+       
 2. Data Visualization:
         Power Bi was used to visualied and provide insights.
-3. Presentation and actionable insights:
+   
+4. Presentation and actionable insights:
         Designed presentation using Microsoft powerpoint and  provided meaningful insights for the top-level management.
 
 #Conclusion:
