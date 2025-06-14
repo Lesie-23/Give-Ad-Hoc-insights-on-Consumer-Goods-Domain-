@@ -1,4 +1,4 @@
-# Ad-Hoc-insights-on-Consumer-Goods-Domain #
+## Ad-Hoc-insights-on-Consumer-Goods-Domain #
 
 #Company overview:
 
@@ -6,20 +6,20 @@ Atliq  Hardwares (imaginary company) is one of the leading computer hardware pro
 
 
 
-#Challenge:
+## Challenge:
 
 Management faced challenges as they couldn’t access insights needed to make smarter, data-driven decisions for their business.
 
 To solve this issue, their Analytics Director decided to hire several Junior Data Analysts and assigned them the task of handling ad-hoc requests and providing valuable insights.
 
 
-#Task:
+## Task:
 
 1. Provide business insights by writing SQL queries from the given ad-hoc request document.
 
 2. Create a presentation to showcase the insights, tailored for top-level management.
 
-#My Approach:
+## My Approach:
 
  1.Data Extaction by using MYSQL:
        Utilized SQL to run queries and extract neccessary data.
@@ -32,10 +32,10 @@ To solve this issue, their Analytics Director decided to hire several Junior Dat
 
    
 
-#Conclusion:
+## Conclusion:
 
 This project gave me the opportunity to work through complex data queries and turn them into meaningful, easy-to-understand insights. 
-It not only sharpened my technical skills but also improved how I communicate data in a clear and impactful way.
+It also strengthened my technical skills and data storytelling ability.
 
 
 
