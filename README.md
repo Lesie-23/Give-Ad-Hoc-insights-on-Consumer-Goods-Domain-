@@ -15,8 +15,9 @@ To solve this issue, their Analytics Director decided to hire several Junior Dat
 
 #Task:
 
-. Provide business insights by writing SQL queries from the given ad-hoc request document.
-. Create a presentation to showcase the insights, tailored for top-level management.
+1. Provide business insights by writing SQL queries from the given ad-hoc request document.
+
+2. Create a presentation to showcase the insights, tailored for top-level management.
 
 #My Approach:
 
