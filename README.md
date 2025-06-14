@@ -1,6 +1,6 @@
 ## Ad-Hoc-insights-on-Consumer-Goods-Domain #
 
-#Company overview:
+## Company overview:
 
 Atliq  Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too. They produce Mouse, Keyboard , PC and so on. 
 
