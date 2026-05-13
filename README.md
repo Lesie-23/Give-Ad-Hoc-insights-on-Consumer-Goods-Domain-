@@ -30,7 +30,20 @@ To solve this issue, their Analytics Director decided to hire several Junior Dat
 4. Presentation and actionable insights:
         Designed presentation using Microsoft powerpoint and  provided meaningful insights for the top-level management.
 
-   
+
+## Insights:
+
+ . Unique products increased from 245 in 2020 to 334 in 2021, representing a 36.33% YoY growth in the product portfolio.
+ 
+. Notebook, Accessories, and Peripherals segments together accounted for 82.87% of total products, making them the company’s primary product categories.
+
+. Manufacturing costs showed a significant gap, with AQ HOME Allin1 Gen 2 having the highest cost at $240.54, while AQ Master Wired x1 Ms had the lowest at $0.89.
+
+. Among the top customers in 2021, Flipkart received the highest average pre-invoice discount at 30.83%, whereas Amazon received the lowest at 29.33%.
+
+. The Retailer channel contributed the highest share of gross sales at 73.22%, while the Distributor channel contributed the least at 11.31%.
+
+. Sales dropped sharply in March 2020 (0.77M units) during the pandemic period, but later peaked in November 2021 (32.25M units), showing strong business recovery.
 
 ## Conclusion:
 
